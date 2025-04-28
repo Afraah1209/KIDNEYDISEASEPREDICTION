@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlflow
+pickle5; python_version<"3.8"
